@@ -20,4 +20,4 @@ and the YOLO model for detecting plates in an image.
 - PIL - to work with the image format
 - transformers - to work with the YOLO model used for recognition
 
-The pre-trained model used in this detection program was downloaded from huggingface.co and can be found at this link: https://huggingface.co/nickmuchi/yolos-small-finetuned-license-plate-detection"# car-license-plate-recognition" 
+The pre-trained model used in this detection program was downloaded from huggingface.co and can be found at this link: https://huggingface.co/nickmuchi/yolos-small-finetuned-license-plate-detection
